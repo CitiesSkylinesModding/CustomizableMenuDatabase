@@ -1,3 +1,47 @@
-ModName,ModId,Beta,Warning,Badge,Srcs,BuiltIn,Style
-I18NEverywhere,I18NEverywhere.I18NEverywhere.I18NEverywhere,,,,,true,
-AssetPacksManager,AssetPacksManager.AssetPacksManager.Mod,,,,,true,
+﻿ModName,ModId,Beta,Warning,Badge,Srcs,BuiltIn,Style,ParadoxId
+All Aboard!,AllAboard.AllAboard.Mod,,,,BROKEN,,,86605
+Area Bucket,AreaBucket.AreaBucket.Mod,,,,BROKEN,,,81157
+Asset Icon Library,AssetIconLibrary.AssetIconLibrary.Mod,,,,,,,79634
+Asset Packs Manager,AssetPacksManager.AssetPacksManager.Mod,,,,,TRUE,,78903
+Asset Update Mod,PrefabUpdateMod.PrefabUpdateMod.Mod,,,,,,,105801
+Asset Variation Changer,AssetVariationChanger.AssetVariationChanger.Mod,,,,,,,78847
+Better Moon Light,BetterMoonLight.BetterMoonLight.Mod,,,,,,,
+Bye Bye Homeless (no longer needed after 1.2.5f1),ByeByeHomelessMod.ByeByeHomelessMod.Mod,,,,BROKEN,,,84571
+CIM Route Highlighter,EmploymentTracker.EmploymentTracker.Mod,,,,,,,76662
+Citizen Model Manager,CitizenModelManager.CitizenModelManager.Mod,,,,,,,92952
+ctrlC,ctrlC.ctrlC.Mod,,,,BROKEN,,,81925
+Demand Master Pro,DemandMaster.DemandMaster.Mod,,,,,,,
+Depot Capacity Changer,DepotCapacityChanger.DepotCapacityChanger.Mod,,,,,,,75684
+Disable Accidents,DisableAccidents.DisableAccidents.Mod,,,,,,,105715
+Even Better Save List,EvenBetterSaveList.EvenBetterSaveList.Mod,,,,,,,112978
+Event Controller,EventsController.EventsController.Mod,,,,,,,
+Extended Tooltip,ExtendedTooltip.ExtendedTooltip.Mod,,,,,,,78188
+ExtendedRadio,ExtendedRadio.ExtendedRadio.Mod,,,,,,,75862
+Find It,FindIt.FindIt.Mod,,,,BROKEN,,,77240
+Hall of Fame,HallOfFame.HallOfFame.Mod,,,,BROKEN,,,90641
+I18NEverywhere,I18NEverywhere.I18NEverywhere.I18NEverywhere,,,,BROKEN,TRUE,,
+Infinite Demand,InfiniteDemand.InfiniteDemand.InfiniteDemand,,,,,,,
+Move It,MoveIt.MoveIt.Mod,,,,BROKEN,,,74324
+Nice Weather,NiceWeather.NiceWeather.Mod,,,,,,,79123
+No Pollution,NoPollution.NoPollution.Mod,,,,BROKEN,,,78601
+No Vehicle Despawn,NoTrafficDespawn.NoTrafficDespawn.Mod,,,,,,,85211
+OSM Export,OSMExport.OSMExport.Mod,,,,,,,87422
+Overpopulated Gizmo & Fix,Overpopulated.Overpopulated.Mod,,,,,,,
+Parking Monitor,ParkingMonitor.ParkingMonitor.Mod,,,,,,,
+Pathfinding Customizer,PathfindingCustomizer.PathfindingCustomizer.Mod,,,,,,,86462
+Population Rebalance,RealPop.RealPop.Mod,,,,,,,76037
+Real Life,RealLife.RealLife.Mod,,,,,,,86868
+Realistic Parking,RealisticParking.RealisticParking.Mod,,,,,,,
+Realistic Path Finding,RealisticPathFinding.RealisticPathFinding.Mod,,,,,,,
+Realistic Trips,Time2Work.Time2Work.Mod,,,,,,,77171
+Realistic W & H,RWH.RealisticWorkplacesAndHouseholds.Mod,,,,,,,
+Road Wear Adjuster,RoadWearAdjuster.RoadWearAdjuster.Mod,,,,,,,96718
+School Capacity Balancer,SchoolCapacityBalancer.SchoolCapacityBalancer.Mod,,,,,,,75190
+Smart Transportation,SmartTransportation.SmartTransportation.Mod,,,,,,,
+Stiffer Vehicles,StifferVehicles.StifferVehicles.Mod,,,,,,,81407
+Super Fast Building And Leveling,SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling.SuperFastBuildingAndLeveling,,,,,,,77321
+Time and Weather Anarchy,TimeWeatherAnarchy.TimeWeatherAnarchy.Mod,,,,,,,
+Trading Cost Tweaker,TradingCostTweaker.TradingCostTweaker.Mod,,,,,,,86124
+Transit Capacity Multiplier,TransitCapacityMultiplier.TransitCapacityMultiplier.Mod,,,,,,,
+Water Visual Tweaks,WaterVisualTweaks.WaterVisualTweaksMod.Mod,,,,,,,77260
+WeatherPlus,WeatherPlus.WeatherPlus.Mod,,,,,,,
