@@ -1,4 +1,4 @@
-from typing import List, Optional
+from typing import List
 import msgspec
 
 
@@ -53,15 +53,27 @@ def parse_style(s: str) -> dict:
 
     return result
 
+def as_bool_or_none(v):
+    if v is None:
+        return None
+    if isinstance(v, bool):
+        return v
+    if isinstance(v, str):
+        s = v.strip().lower()
+        if s in ("true"):
+            return True
+        if s in ("false"):
+            return False
+    return None
 
 def row_to_mod_entry(row: dict) -> ModEntry:
     mod_id = row["ModId"]
 
-    badge = row.get("Badge")
-    beta = row.get("Beta")
-    warning = row.get("Warning")
+    badge = as_bool_or_none(row.get("Badge"))
+    beta = as_bool_or_none(row.get("Beta"))
+    warning = as_bool_or_none(row.get("Warning"))
     srcs = row.get("Srcs")
-    built_in = row.get("BuiltIn")
+    built_in = as_bool_or_none(row.get("BuiltIn"))
     style = row.get("Style")
 
     item: Item | None = None

@@ -27,6 +27,12 @@ splitted = filtered.with_columns(
     .alias("Srcs")
 )
 splitted = splitted.with_columns(
+    pl.when(pl.col("Srcs").is_not_null() & (pl.col("Srcs").list.len() > 0))
+    .then(True)
+    .otherwise(pl.col("Badge"))
+    .alias("Badge")
+)
+splitted = splitted.with_columns(
     pl.when(pl.col("Style").is_not_null() & (pl.col("Style") != ""))
     .then(pl.col("Style").map_elements(parse_style, return_dtype=pl.Object))
     .otherwise(None)
@@ -36,6 +42,6 @@ splitted = splitted.with_columns(
 mod_entries: list[ModEntry] = [row_to_mod_entry(row) for row in splitted.to_dicts()]
 data_map = {e.id: e.data for e in mod_entries}
 config = ModConfig(duration=UPDATE_DURATION, data=data_map)
-json_bytes = msgspec.json.encode(config)
+json_bytes = msgspec.json.encode(config, order="sorted")
 with open("CustomizableMenuData.json", "b+w") as f:
     f.write(json_bytes)
