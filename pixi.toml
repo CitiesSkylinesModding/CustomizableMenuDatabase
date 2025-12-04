@@ -1,0 +1,20 @@
+[workspace]
+authors = ["baka-gourd <36119339+baka-gourd@users.noreply.github.com>"]
+channels = ["conda-forge"]
+name = "CS2.CustomizableMenuDatabase"
+platforms = ["win-64", "linux-64", "osx-arm64"]
+version = "0.1.0"
+
+[pypi-options]
+index-url = "https://pypi.org/simple"
+
+[tasks]
+build = { cwd = ".", cmd = "python src/build_from_csv.py" }
+
+[dependencies]
+python = "3.12.*"
+
+[pypi-dependencies]
+polars = ">=1.35.2, <2"
+pyarrow = ">=22.0.0, <23"
+msgspec = ">=0.20.0, <0.21"

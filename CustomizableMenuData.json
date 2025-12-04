@@ -1,15 +1,1 @@
-{
-    "duration": 3600,
-    "data": {
-        "I18NEverywhere.I18NEverywhere.I18NEverywhere": {
-            "item": {
-                "builtIn": true
-            }
-        },
-        "AssetPacksManager.AssetPacksManager.Mod": {
-            "item": {
-                "builtIn": true
-            }
-        }
-    }
-}
+{"duration":3600,"data":{"I18NEverywhere.I18NEverywhere.I18NEverywhere":{"item":{"builtIn":true}},"AssetPacksManager.AssetPacksManager.Mod":{"item":{"builtIn":true}}}}
