@@ -10,7 +10,21 @@ index-url = "https://pypi.org/simple"
 
 [tasks]
 build = { cwd = ".", cmd = "python src/build_from_csv.py" }
-sync = { cwd = ".", cmd = "python src/sync_skyve.py" }
+
+[tasks.sync-and-build]
+cmd = "echo \"sync and build done\""
+args = [{ "arg" = "token", "default" = "" }]
+depends-on = [
+    { task = "sync", args = [
+        { token = "{{token}}" },
+    ] },
+    { task = "build" },
+]
+
+[tasks.sync]
+cwd = "."
+cmd = "python src/sync_skyve.py {{token}}"
+args = [{ "arg" = "token", "default" = "" }]
 
 [dependencies]
 python = "3.12.*"
