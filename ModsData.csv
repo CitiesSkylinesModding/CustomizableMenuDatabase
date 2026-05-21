@@ -1,6 +1,6 @@
 ﻿ModName,ModId,Beta,Warning,Badge,Srcs,BuiltIn,Style,ParadoxId
-All Aboard!,AllAboard.AllAboard.Mod,,,,BROKEN,,,86605
-Area Bucket,AreaBucket.AreaBucket.Mod,,,,BROKEN,,,81157
+All Aboard!,AllAboard.AllAboard.Mod,,,,,,,86605
+Area Bucket,AreaBucket.AreaBucket.Mod,,,,,,,81157
 Asset Icon Library,AssetIconLibrary.AssetIconLibrary.Mod,,,,,,,79634
 Asset Packs Manager,AssetPacksManager.AssetPacksManager.Mod,,,,OBS,TRUE,,78903
 Asset Update Mod,PrefabUpdateMod.PrefabUpdateMod.Mod,,,,,,,105801
@@ -9,7 +9,7 @@ Better Moon Light,BetterMoonLight.BetterMoonLight.Mod,,,,,,,
 Bye Bye Homeless (no longer needed after 1.2.5f1),ByeByeHomelessMod.ByeByeHomelessMod.Mod,,,,OBS,,,84571
 CIM Route Highlighter,EmploymentTracker.EmploymentTracker.Mod,,,,,,,76662
 Citizen Model Manager,CitizenModelManager.CitizenModelManager.Mod,,,,,,,92952
-ctrlC,ctrlC.ctrlC.Mod,,,,BROKEN,,,81925
+ctrlC,ctrlC.ctrlC.Mod,,,,,,,81925
 Demand Master Pro,DemandMaster.DemandMaster.Mod,,,,,,,
 Depot Capacity Changer,DepotCapacityChanger.DepotCapacityChanger.Mod,,,,,,,75684
 Disable Accidents,DisableAccidents.DisableAccidents.Mod,,,,,,,105715
@@ -18,7 +18,7 @@ Event Controller,EventsController.EventsController.Mod,,,,,,,
 Extended Tooltip,ExtendedTooltip.ExtendedTooltip.Mod,,,,,,,78188
 ExtendedRadio,ExtendedRadio.ExtendedRadio.Mod,,,,,,,75862
 Find It,FindIt.FindIt.Mod,,,,,,,77240
-Hall of Fame,HallOfFame.HallOfFame.Mod,,,,BROKEN,,,90641
+Hall of Fame,HallOfFame.HallOfFame.Mod,,,,,,,90641
 I18NEverywhere,I18NEverywhere.I18NEverywhere.I18NEverywhere,,,,,TRUE,,
 Infinite Demand,InfiniteDemand.InfiniteDemand.InfiniteDemand,,,,,,,
 Move It,MoveIt.MoveIt.Mod,,,,,,,74324
@@ -30,10 +30,10 @@ Overpopulated Gizmo & Fix,Overpopulated.Overpopulated.Mod,,,,,,,
 Parking Monitor,ParkingMonitor.ParkingMonitor.Mod,,,,,,,
 Pathfinding Customizer,PathfindingCustomizer.PathfindingCustomizer.Mod,,,,,,,86462
 Population Rebalance,RealPop.RealPop.Mod,,,,,,,76037
-Real Life,RealLife.RealLife.Mod,,,,BROKEN,,,86868
-Realistic Parking,RealisticParking.RealisticParking.Mod,,,,BROKEN,,,
+Real Life,RealLife.RealLife.Mod,,,,,,,86868
+Realistic Parking,RealisticParking.RealisticParking.Mod,,,,,,,
 Realistic Path Finding,RealisticPathFinding.RealisticPathFinding.Mod,,,,,,,
-Realistic Trips,Time2Work.Time2Work.Mod,,,,BROKEN,,,77171
+Realistic Trips,Time2Work.Time2Work.Mod,,,,,,,77171
 Realistic W & H,RWH.RealisticWorkplacesAndHouseholds.Mod,,,,,,,
 Road Wear Adjuster,RoadWearAdjuster.RoadWearAdjuster.Mod,,,,,,,96718
 School Capacity Balancer,SchoolCapacityBalancer.SchoolCapacityBalancer.Mod,,,,,,,75190
@@ -46,7 +46,7 @@ Transit Capacity Multiplier,TransitCapacityMultiplier.TransitCapacityMultiplier.
 Water Visual Tweaks,WaterVisualTweaks.WaterVisualTweaksMod.Mod,,,,,,,77260
 WeatherPlus,WeatherPlus.WeatherPlus.Mod,,,,,,,
 Recolor,Recolor.Recolor.Mod,,,,,,,84638
-Click 2 Sick,Click2Sick.Click2Sick.Mod,,,,BROKEN,,,97380
+Click 2 Sick,Click2Sick.Click2Sick.Mod,,,,,,,97380
 Traffic,Traffic.Traffic.Mod,,,,,,,80095
 Road Builder,RoadBuilder.RoadBuilder.Mod,,,,,,,87190
 Toggle Overlays,ToggleableOverlays.ToggleableOverlays.Mod,,,,,,,80931
