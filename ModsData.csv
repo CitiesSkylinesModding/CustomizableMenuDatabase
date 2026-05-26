@@ -221,7 +221,7 @@ InfoLoom,,,,,BROKEN,,,77637
 "Melbourne, Australia",,,,,,,,77878
 InfiniteDemand,,,,,BROKEN,,,77901
 Radio Media Control [Beta],,,,,BETA,,,77913
-BetterMoonLight,,,,,BROKEN,,,77923
+BetterMoonLight,,,,,,,,77923
 Station Naming,,,,,,,,78131
 Traffic Lights Enhancement Alpha,,,,,BETA;BROKEN,,,78960
 MagicTaxi,,,,,BROKEN,,,78966
@@ -404,3 +404,9 @@ Boating Package,,,TRUE,,,,,132092
 Train Station (ground side platform station) 3 lane one way,,,,,BROKEN,,,132135
 Fix Broken Trailers,,,,,,,,136207
 ChirpGPT,,,,,BROKEN,,,136370
+Traffic Light Manager,,,,,BROKEN,,,139487
+Realistic Traffic AI,,,,,BROKEN,,,143483
+Rail Traffic Visualizer,,,,,,,,143817
+Mert's ToolBox,,,,,,,,138174
+AdvancedTPM,,,,,,,,141486
+Industrial Zoning Expanded,,,,,BROKEN,,,130356
