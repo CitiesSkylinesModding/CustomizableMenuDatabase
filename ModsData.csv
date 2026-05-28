@@ -84,7 +84,7 @@ Advanced Road Tools,,,,,BROKEN,,,102147
 CarBattery,,,,,,,,102348
 Camera Drag,,,,,BROKEN,,,102892
 Specialized Industrial Zones,,,,,,,,106939
-Rent Matter Again,,,,,BROKEN,,,106957
+Rent Matters Again,,,,,BROKEN,,,106957
 SimpleOfficeSellMod,,,,,BROKEN,,,107104
 System Clock,,,,,BROKEN,,,107257
 Skyve [BETA],,,,,BETA,,,108773
@@ -190,7 +190,7 @@ ExtraDetailingTools,,,,,,,,80528
 ExtraAssetsImporter,,,,,,,,80529
 Clock widget,,,,,BROKEN,,,88034
 ExtraHotkeys,,,,,,,,88157
-LazyPedestrians,,,,,,,,88266
+[DONT USE] Lazy Pedestrians,,,,,BROKEN,,,88266
 Unlimited Unique Buildings,,,,,,,,88488
 No Dead Trees,,,,,,,,88500
 Save Checker,,,,,,,,101159
@@ -404,7 +404,7 @@ Boating Package,,,TRUE,,,,,132092
 Train Station (ground side platform station) 3 lane one way,,,,,BROKEN,,,132135
 Fix Broken Trailers,,,,,,,,136207
 ChirpGPT,,,,,BROKEN,,,136370
-Traffic Light Manager,,,,,BROKEN,,,139487
+Traffic Light Manager,,,,,,,,139487
 Realistic Traffic AI,,,,,BROKEN,,,143483
 Rail Traffic Visualizer,,,,,,,,143817
 Mert's ToolBox,,,,,,,,138174
@@ -412,3 +412,4 @@ AdvancedTPM,,,,,,,,141486
 Industrial Zoning Expanded,,,,,BROKEN,,,130356
 ZombieLand: Toxic Outbreak,,,,,,,,143765
 RandomFart,,,,,BROKEN,,,129540
+2013 Audi RS7,,,,,,,,145570
