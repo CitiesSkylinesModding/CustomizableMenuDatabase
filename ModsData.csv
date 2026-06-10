@@ -349,7 +349,7 @@ Controle Traffic Speed,,,,,,,,143752
 Fertility Control,,,,,,,,143857
 Vehicle Controller (preview),,,TRUE,,,,,125228
 Platter [Alpha],,,TRUE,,ALPHA,,,125278
-System Time Widget,,,,,,,,125292
+System Time Widget,,,,,BROKEN,,,125292
 App2,,,,,BROKEN,,,125338
 MemoryOptimiser,,,,,BROKEN,,,125339
 Magic Mail,,,,,,,,125343
@@ -420,3 +420,6 @@ CS2 GTA Edition (Stable Version),,,,,,,,146099
 Expanded City Policies,,,,,,,,146344
 T.G.I. FRIDAY'S RESTAURANT,,,,,BROKEN,,,145286
 Ghostwriter,,,,,,,,145605
+Adjustable Powerline Capacity 2.0,,,,,BROKEN,,,123904
+City Watchdog,,,,,,,,144908
+Citizen Education Level Adjuster / 市民教育程度调整,,,,,,,,147113
