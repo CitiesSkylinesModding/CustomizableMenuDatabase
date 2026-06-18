@@ -167,7 +167,7 @@ Find Character,,,,,,,,123345
 Outside Connection Vehicle Remover,,,,,,,,123410
 Abandoned Building Remover - Deviance fix,,,,,,,,123489
 Magical Hearse - Deviance Fix (retired),,,,,,,,123490
-NoWaterElectricity - Deviance Fix,,,,,,,,123492
+NoWaterElectricity - Deviance Fix,,,TRUE,,,,,123492
 Crime Remover - Deviance Fix (Retired),,,,,,,,123496
 Magic Hearse,,,,,,,,123497
 [BETA] Realistic JobSearch,,,,,BETA,,,123500
@@ -427,3 +427,4 @@ CityLapse,,,,,,,,147434
 Civic Voice (BETA),,,,,,,,147311
 Civic Survival [BETA],,,TRUE,,BETA,,,147665
 Mouse Pan (Camera Drag Fixed),,,,,,,,139584
+Hard Mode Continued,,,TRUE,,,,,144130
