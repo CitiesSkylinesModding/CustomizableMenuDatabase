@@ -7,7 +7,7 @@ Asset Update Mod,PrefabUpdateMod.PrefabUpdateMod.Mod,,,,,,,105801
 Asset Variation Changer,AssetVariationChanger.AssetVariationChanger.Mod,,,,BETA,,,78847
 Better Moon Light,BetterMoonLight.BetterMoonLight.Mod,,,,,,,
 Bye Bye Homeless (no longer needed after 1.2.5f1),ByeByeHomelessMod.ByeByeHomelessMod.Mod,,,,,,,84571
-CIM Route Highlighter,EmploymentTracker.EmploymentTracker.Mod,,,,,,,76662
+Cim Route Highlighter,EmploymentTracker.EmploymentTracker.Mod,,,,BROKEN,,,76662
 Citizen Model Manager,CitizenModelManager.CitizenModelManager.Mod,,,,,,,92952
 ctrlC,ctrlC.ctrlC.Mod,,,,,,,81925
 Demand Master Pro,DemandMaster.DemandMaster.Mod,,,,,,,
@@ -334,7 +334,7 @@ Demand Modifier (BETA),,,,,BROKEN,,,123170
 Adjust Transit Capacity,,,,,,,,123738
 Aus Road Signs,,,,,BROKEN,,,123877
 Adjust School Capacity,,,,,,,,123887
-Smooth Left-Hand Traffic,,,TRUE,,,,,123929
+Smooth Left-Hand Traffic,,,,,,,,123929
 Realistic Workplaces And Households,,,,,,,,87755
 CS2M,,,,,,,,96405
 CS2M,,,,,,,,96450
@@ -430,3 +430,4 @@ Mouse Pan (Camera Drag Fixed),,,,,,,,139584
 Hard Mode Continued,,,TRUE,,,,,144130
 US-Style Traffic Lights,,,,,,,,148109
 Disable Tooltips and Hover,,,,,,,,141603
+Pandemic (TEST VERSION),,,,,BETA,,,102782
