@@ -110,7 +110,7 @@ TransitCapacityMultiplier,,,,,BROKEN,,,80403
 Building Usage Displays,,,,,,,,113193
 Extractors Begone,,,,,,,,120143
 Extra UI Screens,,,,,,,,74151
-Addresses & Names Mod,,,,,,,,74182
+Addresses & Names Mod,,,,,BROKEN,,,74182
 Xtended Transport Manager,,,,,,,,74238
 Scene Explorer,,,,,,,,74285
 FPS Limiter,,,,,,,,74286
@@ -181,7 +181,7 @@ Prop Lights Mod,,,,,,,,75104
 Abandoned Building Remover,,,,,BROKEN,,,75107
 Resolution Extension,,,,,BROKEN,,,75179
 RoadWearRemoverPDX,,,,,,,,75185
-Brush Size Unlimiter,,,,,,,,75249
+Brush Size Unlimiter,,,,,BROKEN,,,75249
 Better Bulldozer,,,,,,,,75250
 I18n Everywhere,,,,,,,,75426
 Magical Garbage Truck,,,,,BROKEN,,,75587
@@ -201,7 +201,7 @@ Flags of Africa,,,,,,,,114999
 Magic Garbage Truck,,,,,,,,124159
 Plop the Growables,,,,,,,,75826
 Tree Controller,,,,,,,,75993
-Map Texture Replacer,,,,,,,,76050
+Map Texture Replacer,,,,,BROKEN,,,76050
 SignatureFix,,,,,BROKEN,,,76065
 CitiesSkylinesIImod1,,,,,BROKEN,,,76258
 NoDogs,,,,,,,,76546
@@ -221,7 +221,7 @@ InfoLoom,,,,,BROKEN,,,77637
 "Melbourne, Australia",,,,,,,,77878
 InfiniteDemand,,,,,BROKEN,,,77901
 Radio Media Control [Beta],,,,,BETA,,,77913
-BetterMoonLight,,,,,,,,77923
+BetterMoonLight,,,,,BROKEN,,,77923
 Station Naming,,,,,,,,78131
 Traffic Lights Enhancement Alpha,,,,,BETA;BROKEN,,,78960
 MagicTaxi,,,,,BROKEN,,,78966
@@ -251,7 +251,7 @@ NoTeleporting,,,,,BROKEN,,,86510
 No Car Trailers,,,,,,,,86553
 Boundary Lines Modifier,,,,,,,,86728
 TestMod,,,,,BETA;BROKEN,,,86746
-Realistic Parking (U-Turns Fix),,,,,,,,87313
+Realistic Parking,,,,,,,,87313
 Carto,,,,,,,,87428
 AutoSaveAlwaysOn,,,,,,,,89270
 TimeAdjusterMod,,,,,BETA,,,89458
@@ -259,7 +259,7 @@ City Controller,,,,,,,,89495
 HeavyTraffic,,,,,BROKEN,,,89607
 cutestats,,,,,,,,89711
 [UNSTABLE] TLE 0.3 Preview,,,,,BETA;EXP;BROKEN,,,89804
-Industries Extended,,,,,,,,92499
+Industries Extended,,,,,BROKEN,,,92499
 StarQ's Workflow Kit,,,,,,,,92671
 1주년 축하도시,,,,,BETA,,,92858
 Write Everywhere,,,,,BETA,,,92908
@@ -299,7 +299,7 @@ Crime and Unemployment Matter,,,,,BROKEN,,,106650
 UltraPainter,,,,,BROKEN,,,107468
 Smart Upkeep Manager,,,,,,,,107487
 Dummy Traffic Remover,,,,,,,,107683
-"MapExt: Big Map, Economy and Performance",,,TRUE,,,,,107939
+"MapExt: Big Map, Economy and Performance",,,,,BROKEN,,,107939
 AirplaneParameterMod,,,,,BROKEN,,,109086
 Station Signage [BETA] [WE Module],,,,,BETA,,,109310
 UrbanInequality,,,,,,,,110245
@@ -321,7 +321,7 @@ Ciao Italia Map Theme,,,,,,,,117948
 Bombardier CRJ-900 (Core Pack),,,,,BROKEN,,,118049
 Korean Air (Boeing 787-9 Dreamliner),,,,,BROKEN,,,118162
 CityFlow Orchestrator,,,,,BROKEN,,,119886
-[BETA] Realistic PathFinding,,,,,BETA,,,121226
+Realistic PathFinding,,,,,,,,121226
 Achievement Fixer,,,,,,,,121256
 "Testing, Dont download!!",,,,,BETA;BROKEN,,,122492
 InfraSym.CS2.Enhanced,,,,,BETA,,,122584
@@ -392,7 +392,7 @@ TMPE,,,TRUE,,,,,140546
 Custom Tourism[Alpha],,,,,ALPHA,,,141243
 No Office Demand Fix,,,,,,,,137126
 混合型騎樓型建築Taiwan Mixed Building,,,,,BROKEN,,,137133
-EconomyEX,,,,,,,,137149
+EconomyEX,,,,,BROKEN,,,137149
 LOD Control,,,,,,,,141751
 Fast Boarding [Beta],,,,,BETA,,,141997
 Beyond Numbers,,,,,,,,142309
@@ -415,7 +415,7 @@ RandomFart,,,,,BROKEN,,,129540
 2013 Audi RS7,,,,,,,,145570
 Lumina,,,,,,,,94394
 Beta Test Driving Mod (Stable),,,,,,,,145145
-Custom Crematorium | 火葬场自定义,,,,,,,,145283
+Custom Crematorium | 火葬场自定义,,,,,BROKEN,,,145283
 CS2 GTA Edition (Stable Version),,,,,,,,146099
 Expanded City Policies,,,,,,,,146344
 T.G.I. FRIDAY'S RESTAURANT,,,,,BROKEN,,,145286
@@ -431,3 +431,22 @@ Hard Mode Continued,,,TRUE,,,,,144130
 US-Style Traffic Lights,,,,,,,,148109
 Disable Tooltips and Hover,,,,,,,,141603
 Pandemic (TEST VERSION),,,,,BETA,,,102782
+ExtraLandscapingTools,,,,,,,,75728
+AutoDistrictNameStations,,,,,,,,76908
+"[DEPRECIATED] Fish, Fish and more Fish!",,,,,,,,114589
+pointentitygetter,,,,,BETA,,,132554
+pointentitygetter,,,,,BETA,,,132559
+Transit Scope,,,,,,,,139959
+SocialIntegration,,,,,,,,140057
+CityTimelineMod,,,,,BROKEN,,,145499
+Traffic Tool Essentials,,,,,,,,125342
+Traffic Lights Enhancement - 1.4.2f1 Hotfix (Unofficial),,,,,BETA,,,125352
+App1,,,,,BETA,,,125362
+Road Precision,,,,,,,,126355
+No External Trains禁止外部列车,,,,,,,,147350
+拖动镜头,,,,,,,,147689
+GLU,,,,,,,,128314
+Flixbus (Old)(New Version in Description),,,,,,,,130327
+Easy Zoning,,,,,,,,136261
+MapExt: Alternate Version(Test),,,,,BETA,,,131296
+Emergency Ghosts,,,,,BROKEN,,,131525
