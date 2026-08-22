@@ -384,7 +384,7 @@ Tollbooths Collection [Beta],,,,,BETA;BROKEN,,,129197
 Collision Be Gone V2.0,,,,,,,,129323
 Longer Days,,,,,,,,129485
 Topo Toggle,,,,,,,,129789
-Strict Bus Lanes BETA,,,,,BROKEN,,,130199
+Strict Bus Lanes BETA,,,,,,,,130199
 [BETA] Traffic Law Enforcement,,,,,BETA;BROKEN,,,138258
 XP Boost you need to download it,,,,,,,,138340
 TMPE,,,TRUE,,,,,140541
@@ -455,7 +455,7 @@ Articulated Buses,,,,,,,,148570
 Árvore Absorption System,,,,,,,,150254
 TINB Assets WE-Module,,,,,,,,143761
 Custom Land Parcel,,,,,,,,150138
-Town Road Lane — Road Markings,,,,,,,,150863
+Town Road Lane — Road Markings,,,,,BROKEN,,,150863
 Flex It,,,,,BROKEN,,,151744
 Vehicle Quantity & Transit Adjuster / 车辆数量与公共交通调节器,,,,,,,,146322
 Plop Shuffle,,,,,,,,152275
@@ -468,5 +468,8 @@ SaveGuard — Non-Destructive Save Protection & Recovery,,,,,,,,155424
 DEPRECATED — Lane Doctor,,,,,,,,155425
 Contour Plus — Topography & Road Grade Analyzer,,,,,,,,155427
 City Pulse — Complete City Diagnostics,,,,,,,,155450
-FastTrack,,,,,,,,155229
+FastTrack,,,,,BROKEN,,,155229
 Traffic Stress Lab,,,,,,,,155230
+Scorched Earth,,,,,,,,156092
+Firefighters Overhaul,,,,,,,,154653
+[Tech Preview]A350-900 China Airlines Carbon Fibre,,,,,,,,154930
