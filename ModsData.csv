@@ -468,13 +468,13 @@ SaveGuard — Non-Destructive Save Protection & Recovery,,,,,,,,155424
 DEPRECATED — Lane Doctor,,,,,,,,155425
 Contour Plus — Topography & Road Grade Analyzer,,,,,,,,155427
 City Pulse — Complete City Diagnostics,,,,,,,,155450
-FastTrack,,,,,BROKEN,,,155229
+FastTrack,,,,,,,,155229
 Traffic Stress Lab,,,,,,,,155230
 Scorched Earth,,,,,,,,156092
 Firefighters Overhaul,,,,,,,,154653
 [Tech Preview]A350-900 China Airlines Carbon Fibre,,,,,,,,154930
 Event Rush [BETA],,,,,BETA,,,156682
-Construction Animation,,,,,,,,155375
+Construction Animation,,,TRUE,,,,,155375
 [BETA] Grid Road Generator,,,,,BETA,,,151745
 Wet Roads (experimental),,,,,,,,143447
 Small Underground Parking Building,,,,,,,,127696
@@ -484,3 +484,6 @@ Historical Start - SAC Managed [Deprecated],,,,,,,,157407
 Tree Controller - SAC Managed [Deprecated],,,,,,,,157482
 No Speed Limit Marking Decals,,,,,,,,155637
 Pittsburgh Inspired Low Density Residential Houses 24 Pack,,,,,,,,141495
+Network Studio — Road Furniture & Sign Placement,,,,,,,,155650
+Parkify — Pedestrian Path & Park Access Engine,,,,,,,,155651
+Access Studio,,,,,,,,156034
