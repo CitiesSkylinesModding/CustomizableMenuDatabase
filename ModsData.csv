@@ -221,7 +221,7 @@ InfoLoom,,,,,BROKEN,,,77637
 "Melbourne, Australia",,,,,,,,77878
 InfiniteDemand,,,,,BROKEN,,,77901
 Radio Media Control [Beta],,,,,BETA,,,77913
-BetterMoonLight,,,,,BROKEN,,,77923
+BetterMoonLight,,,,,,,,77923
 Station Naming,,,,,,,,78131
 Traffic Lights Enhancement Alpha,,,,,BETA;BROKEN,,,78960
 MagicTaxi,,,,,BROKEN,,,78966
@@ -493,3 +493,4 @@ Traffic Enhancer,,,,,,,,154382
 Upgraded Interchanges,,,,,,,,154383
 Road Rule,,,,,,,,157334
 School Organizer,,,,,,,,155113
+Concurrent Bus Boarding,,,TRUE,,,,,152153
