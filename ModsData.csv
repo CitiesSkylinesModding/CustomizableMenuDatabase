@@ -30,10 +30,10 @@ Overpopulated Gizmo & Fix,Overpopulated.Overpopulated.Mod,,,,,,,
 Parking Monitor,ParkingMonitor.ParkingMonitor.Mod,,,,,,,
 Pathfinding Customizer,PathfindingCustomizer.PathfindingCustomizer.Mod,,,,,,,86462
 Population Rebalance,RealPop.RealPop.Mod,,,,BROKEN,,,76037
-Real Life,RealLife.RealLife.Mod,,,,BROKEN,,,86868
+Real Life,RealLife.RealLife.Mod,,,,,,,86868
 Realistic Parking,RealisticParking.RealisticParking.Mod,,,,,,,
 Realistic Path Finding,RealisticPathFinding.RealisticPathFinding.Mod,,,,,,,
-Realistic Trips,Time2Work.Time2Work.Mod,,,,BROKEN,,,77171
+Realistic Trips,Time2Work.Time2Work.Mod,,,,,,,77171
 Realistic W & H,RWH.RealisticWorkplacesAndHouseholds.Mod,,,,,,,
 Road Visual Tweaks (formerly Road Wear Adjuster),RoadWearAdjuster.RoadWearAdjuster.Mod,,,,,,,96718
 School Capacity Balancer,SchoolCapacityBalancer.SchoolCapacityBalancer.Mod,,,,BROKEN,,,75190
@@ -67,7 +67,7 @@ SmartTransportation,,,,,,,,90264
 CS2_AiLogger,,,,,,,,93166
 Test,,,,,BETA;BROKEN,,,93192
 Broken Segment Detector,,,,,,,,93199
-InfoLoom,,,,,BROKEN,,,91433
+InfoLoom,,,,,,,,91433
 Europhalia,,,,,,,,91596
 Candy Commercial LUT,,,,,,,,91836
 Whiteness Toggle,,,,,,,,80826
@@ -121,7 +121,7 @@ Volchoria,,,,,,,,76483
 Terraform Hardening,,,,,BROKEN,,,76922
 [DEPRECATED] Extended Road Upgrades,,,,,BROKEN,,,76971
 Crime Remover,,,,,,,,76972
-Daylight Switch,,,,,BROKEN,,,78298
+Daylight Switch,,,,,,,,78298
 MetroCustom,,,,,BROKEN,,,78547
 Overpopulated Gizmo and Fix,,,,,BROKEN,,,78554
 TransportPolicyAdjuster,,,,,,,,78622
@@ -134,7 +134,7 @@ Korea live stream radio,,,,,,,,77367
 DCMI,,,,,,,,77387
 LandValueOverhaul,,,,,BETA;BROKEN,,,77397
 Road Name Remover,,,,,,,,77463
-Change Company,,,,,BROKEN,,,114101
+Change Company,,,,,,,,114101
 Customizable Menu,,,,,,,,116595
 UKSpeedCamera,,,,,BROKEN,,,116674
 Cheats,,,,,,,,117020
@@ -156,7 +156,7 @@ testCS2mod,,,,,BETA,,,135321
 桥墩调节器 BridgePillarAdjuster,,,,,,,,132381
 Bahnhof des Jahres (WE-Integration),,,,,,,,133286
 French Residential Low,,,,,,,,133515
-Fast Bikes,,,,,,,,134067
+Bikes + Paths,,,,,,,,134067
 Public Works [Tons of Tools],,,,,,,,138390
 Node Controller,,,,,,,,138523
 Settings File Guard,,,,,,,,139219
@@ -169,8 +169,8 @@ Abandoned Building Remover - Deviance fix,,,,,,,,123489
 Magical Hearse - Deviance Fix (retired),,,,,,,,123490
 NoWaterElectricity - Deviance Fix,,,TRUE,,,,,123492
 Crime Remover - Deviance Fix (Retired),,,,,,,,123496
-Magic Hearse,,,,,,,,123497
-[BETA] Realistic JobSearch,,,,,BETA,,,123500
+Magic Hearse + Funeral Director,,,,,,,,123497
+Realistic JobSearch,,,,,,,,123500
 (FIXED) Traffic Lights Enhancement Alpha (Unstable Branch),,,,,,,,123674
 Custom Chirps,,,,,,,,121812
 Image Overlay,,,,,,,,74539
@@ -198,7 +198,7 @@ Zoning By-Law Builder [Beta],,,,,BETA,,,101251
 Porvoo Archipelago (958 map tiles),,,,,,,,101779
 Crowded Stops,,,,,BROKEN,,,102080
 Flags of Africa,,,,,,,,114999
-Magic Garbage Truck,,,,,,,,124159
+Magic Garbage + Trash Boss,,,,,,,,124159
 Plop the Growables,,,,,,,,75826
 Tree Controller,,,,,,,,75993
 Map Texture Replacer,,,,,,,,76050
@@ -252,7 +252,7 @@ No Car Trailers,,,,,,,,86553
 Boundary Lines Modifier,,,,,,,,86728
 TestMod,,,,,BETA;BROKEN,,,86746
 Realistic Parking,,,,,,,,87313
-Carto,,,,,BROKEN,,,87428
+Carto,,,,,,,,87428
 AutoSaveAlwaysOn,,,,,,,,89270
 TimeAdjusterMod,,,,,BETA,,,89458
 City Controller,,,,,,,,89495
@@ -272,7 +272,7 @@ ProgressionPopLimit,,,,,BROKEN,,,93763
 "Berlin, Germany",,,,,,,,94041
 BK CITY,,,,,,,,94745
 Sea Canvas,,,,,,,,94748
-Building Use,,,,,BROKEN,,,94762
+Building Use,,,,,,,,94762
 CslProject1,,,,,BROKEN,,,95830
 Camera Field of View,,,,,,,,95872
 Zone Organizer,,,,,,,,95965
@@ -285,7 +285,7 @@ MyNewMod,,,,,BETA;BROKEN,,,97963
 MyNewMod,,,,,BETA;BROKEN,,,97969
 SK2-MOD-App1,,,,,BETA;BROKEN,,,98056
 Enable Achievements,,,,,,,,98778
-Resource Locator,,,,,BROKEN,,,99048
+Resource Locator,,,,,,,,99048
 KSLib,,,,,BETA,,,99100
 CustomThemesMod,,,,,BETA;BROKEN,,,99268
 Stash It,,,,,,,,100369
@@ -309,7 +309,7 @@ Disable Mouse Hint,,,,,BROKEN,,,113299
 FG Cinematica LUT Bundle,,,,,,,,113417
 Lumina,,,,,BETA,,,113470
 Specialized Industrial Zones [alpha],,,TRUE,,ALPHA;BETA,,,113675
-Prefab Asset Fixes,,,TRUE,,,,,113708
+Prefab Asset Fixes,,,,,,,,113708
 [Bikes] Extra Hotkeys,,,,,,,,113726
 Trends UI,,,,,,,,113744
 Office Sales Go! [5/5 Bugfix],,,,,,,,113843
@@ -353,7 +353,7 @@ System Time Widget,,,,,BROKEN,,,125292
 App2,,,,,BROKEN,,,125338
 MemoryOptimiser,,,,,BROKEN,,,125339
 Magic Mail,,,,,,,,125343
-City Services Redux,,,,,,,,125675
+Config-XML,,,,,,,,125675
 (⚠️BROKEN⚠️) Universal Zoning System (UZS),,,,,BROKEN,,,125854
 Road Speed Adjuster,,,,,,,,125866
 Redesigned Top Buttons,,,,,,,,126123
@@ -449,14 +449,14 @@ GLU,,,,,,,,128314
 Flixbus (Old)(New Version in Description),,,,,,,,130327
 Easy Zoning,,,,,,,,136261
 MapExt: Alternate Version(Test),,,,,BETA,,,131296
-Emergency Ghosts,,,,,BROKEN,,,131525
+Emergency Ghosts,,,,,,,,131525
 JP - Generic commercial 01,,,,,,,,148748
 Articulated Buses,,,,,,,,148570
 Árvore Absorption System,,,,,,,,150254
 TINB Assets WE-Module,,,,,,,,143761
 Custom Land Parcel,,,,,,,,150138
 Town Road Lane — Road Markings,,,,,BROKEN,,,150863
-Flex It,,,,,BROKEN,,,151744
+Flex It,,,,,,,,151744
 Vehicle Quantity & Transit Adjuster / 车辆数量与公共交通调节器,,,,,,,,146322
 Plop Shuffle,,,,,,,,152275
 Realistic Alignment,,,,,,,,154291
@@ -471,7 +471,7 @@ City Pulse — Complete City Diagnostics,,,,,,,,155450
 FastTrack,,,,,,,,155229
 Traffic Stress Lab,,,,,,,,155230
 Scorched Earth - Fire Spread Modifier,,,,,,,,156092
-Firefighters Overhaul,,,,,,,,154653
+Firefighters Overhaul,,,TRUE,,,,,154653
 [Tech Preview]A350-900 China Airlines Carbon Fibre,,,,,,,,154930
 Event Rush [BETA],,,,,BETA,,,156682
 Construction Animation,,,TRUE,,,,,155375
@@ -494,6 +494,9 @@ Upgraded Interchanges,,,,,,,,154383
 Road Rule,,,,,,,,157334
 School Organizer,,,,,,,,155113
 Concurrent Bus Boarding,,,TRUE,,,,,152153
-"Realistic Crime, Healthcare and Fire Burden",,,,,,,,159091
+"Realistic Crime, Healthcare and Fire Burden",,,,,BROKEN,,,159091
 Skylines Maps,,,,,,,,157843
 Better Crosswalks,,,,,,,,158875
+Vehicle Use,,,,,,,,150568
+Budget + Milestones + Money,,,,,,,,158395
+Remove Blocking Work Vehicles,,,,,,,,151392
