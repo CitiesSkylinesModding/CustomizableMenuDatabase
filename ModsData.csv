@@ -348,7 +348,7 @@ Realistic Vehicle Colors,,,,,,,,143394
 Controle Traffic Speed,,,,,,,,143752
 Fertility Control,,,,,,,,143857
 Vehicle Controller (preview),,,TRUE,,,,,125228
-Platter [Alpha],,,TRUE,,ALPHA,,,125278
+Platter [Beta],,,,,BETA,,,125278
 System Time Widget,,,,,BROKEN,,,125292
 App2,,,,,BROKEN,,,125338
 MemoryOptimiser,,,,,BROKEN,,,125339
@@ -500,3 +500,5 @@ Better Crosswalks,,,,,,,,158875
 Vehicle Use,,,,,,,,150568
 Budget + Milestones + Money,,,,,,,,158395
 Remove Blocking Work Vehicles,,,,,,,,151392
+Service Coverage Stutter Fix,,,TRUE,,,,,157236
+BankLife,,,TRUE,,,,,158352
