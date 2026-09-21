@@ -12,7 +12,7 @@ Citizen Model Manager,CitizenModelManager.CitizenModelManager.Mod,,,,,,,92952
 ctrlC,ctrlC.ctrlC.Mod,,,,,,,81925
 Demand Master Pro,DemandMaster.DemandMaster.Mod,,,,,,,
 DepotCapacityChanger,DepotCapacityChanger.DepotCapacityChanger.Mod,,,,BROKEN,,,75684
-Disable Accidents,DisableAccidents.DisableAccidents.Mod,,,,BROKEN,,,105715
+Disable Accidents,DisableAccidents.DisableAccidents.Mod,,,,,,,105715
 Even Better Save List,EvenBetterSaveList.EvenBetterSaveList.Mod,,,,,,,112978
 Event Controller,EventsController.EventsController.Mod,,,,,,,
 Extended Tooltip,ExtendedTooltip.ExtendedTooltip.Mod,,,,,,,78188
@@ -305,7 +305,7 @@ Station Signage [BETA] [WE Module],,,,,BETA,,,109310
 UrbanInequality,,,,,,,,110245
 Advanced Building Control,,,,,,,,112283
 Parking Pricing,,,,,,,,112452
-Disable Mouse Hint,,,,,BROKEN,,,113299
+Disable Mouse Hint,,,,,,,,113299
 FG Cinematica LUT Bundle,,,,,,,,113417
 Lumina,,,,,BETA,,,113470
 Specialized Industrial Zones [alpha],,,TRUE,,ALPHA;BETA,,,113675
@@ -494,7 +494,7 @@ Upgraded Interchanges,,,,,,,,154383
 Road Rule,,,,,,,,157334
 School Organizer,,,,,,,,155113
 Concurrent Bus Boarding,,,TRUE,,,,,152153
-"Realistic Crime, Healthcare and Fire Burden",,,,,BROKEN,,,159091
+"Realistic Crime, Healthcare and Fire Burden",,,,,,,,159091
 Skylines Maps,,,,,,,,157843
 Better Crosswalks,,,,,,,,158875
 Vehicle Use,,,,,,,,150568
