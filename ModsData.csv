@@ -156,7 +156,7 @@ testCS2mod,,,,,BETA,,,135321
 桥墩调节器 BridgePillarAdjuster,,,,,,,,132381
 Bahnhof des Jahres (WE-Integration),,,,,,,,133286
 French Residential Low,,,,,,,,133515
-Bikes + Paths,,,,,,,,134067
+[DEPRECATED] Bikes + Paths,,,,,,,,134067
 Public Works [Tons of Tools],,,,,,,,138390
 Node Controller,,,,,,,,138523
 Settings File Guard,,,,,,,,139219
@@ -528,3 +528,4 @@ Advanced Building & Asset Manager,,,TRUE,,,,,167082
 Town Road Lane — Community Hotfix,,,,,,,,163405
 Curved Planter Benches - Wavy Concrete Seating,,,TRUE,,,,,167947
 Roads Editor - LastFrame Studio,,,,,,,,168731
+Adjust All Speed Limits,,,,,,,,149990
